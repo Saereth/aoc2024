@@ -1,0 +1,10 @@
+
+*.o
+
+*.d
+
+day4_rust/target/debug/
+
+day4_rust/Cargo.lock
+
+day4_rust/target/
